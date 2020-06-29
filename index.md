@@ -8,3 +8,6 @@ Super Mario is a Nintendo character. He likes to jump, has a red hat and always 
 * funny
 * hates bowser
 * likes peach
+
+Usually he says:
+> It's me, Mario!
